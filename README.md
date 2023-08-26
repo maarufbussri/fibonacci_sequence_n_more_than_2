@@ -1,4 +1,4 @@
-# fibonacci_sequence_n_more_than_2_using_c
+# fibonacci_sequence_n_more_than_2
 Generate Fibonacci Numbers for n>2 or n>=3.
 
 Fibonacci recurrence relation defined as; F(n) = F(n-2) + F(n-1), for n>2 or n>=3
